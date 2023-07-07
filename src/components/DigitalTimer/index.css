@@ -76,7 +76,7 @@
   }
 }
 
-.elapsed-timer-container {
+.elapsed-time-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -88,14 +88,14 @@
 }
 
 @media (min-width: 576px) {
-  .elapsed-timer-container {
+  .elapsed-time-container {
     width: 150px;
     height: 150px;
   }
 }
 
 @media screen and (min-width: 768px) {
-  .elapsed-timer-container {
+  .elapsed-time-container {
     width: 200px;
     height: 200px;
   }
